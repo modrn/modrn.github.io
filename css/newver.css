@@ -20,9 +20,8 @@
 			width: 100%;
 		}
 		header {
-			background-color: #FFF;
 			background-image: url("hero_head_picture.gif");
-			background-position: left center;
+			background-position: absolute;
 			background-repeat: no-repeat;
 			color: #686767;
 			padding: 0;
