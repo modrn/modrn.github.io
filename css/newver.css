@@ -23,8 +23,8 @@
 			background-image: url("hero_head_picture.gif");
 			background-position: absolute;
 			background-repeat: no-repeat;
-			color: #686767;
 			padding: 0;
+			display: block;
 			width: 100%;
 			min-width: 150px;
 			max-width: 100%;
@@ -32,6 +32,7 @@
 			overflow: hidden;
 			font-size: 0.8em;
 		}
+		
 		article {
 			display: block;
 			overflow: auto;
